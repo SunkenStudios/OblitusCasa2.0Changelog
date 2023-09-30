@@ -1,8 +1,19 @@
-1|https://cdn.discordapp.com/attachments/899136654072242176/1155934325544591380/Welcome_Back_to_The_Cabin_No_Logo_No_Watermark.png|Release 2.0.0 - Changelog
+2|https://cdn.discordapp.com/attachments/899136654072242176/1155935626995171328/Smile_Dog_Edited.png|Release 2.0.1 - Changelog
 
-Oblitus Casa 2.0 is now released!
+Oblitus Casa version 2.0.1 is now out!
 
-This version of the game will not carry over your old save file due to possible save file manipulation to abuse conversion, and the fact that the game is now vastly different in its mechanics that you should replay it in its entirety. One major change is the new luring system, you must now lure directly next to a character to lure them instead of across the map. The lure system is also different in that each camera has its own lure amount, and it does not replenish.
+This version of the game should fix any technical issues with tunnels with assets deloading, and should fix other bugs relating to the game stated here.
 
-Now for the tunnels, Tunnels has been changed greatly since the original versions of Casa. This new version of tunnels features pseudo-3D, 2D animations in attempt to immitate 3D, It is very intensive when loading assets so you may experience lag walking through a corridor for the first time. This section of the game is super technical and may have weird glitchiness in it. If you happen to notice this happening, please report this to the gamepage so it can be fixed.
+Pete debug spawn key
+Hourglass jumpscare debug key
+Hourglass seeing you inside the key door
+Jeff instantly being sent to the win screen
+Some not unlocked extras being blank instead of question mark
+PM on night 1 not repeating on death
+PM night 1 being a little bit too hard
+Dippy liking to smash you with a rock when he's not even active
+Hourglass will now slam on your door repeatedly if you enter the key room mid chase.
+"SHIFT" To sprint prompt on night 1 for people who didn't notice you can run.
+Locked icon for jumpscares behaving weird
+Holding ESC to skip the intro doesnt register that you've skipped it.
 |0
