@@ -1,22 +1,52 @@
-4|https://cdn.discordapp.com/attachments/899136654072242176/1158510197334085712/2.0.3_Update_Raw.png|Release 2.0.3 - Changelog
+5|https://raw.githubusercontent.com/SunkenStudios/OblitusCasa2.0Changelog/main/2.0.4_Update_Raw.png|Release 2.0.4 - Changelog
 
-Oblitus Casa version 2.0.3 is now out!
+Oblitus Casa version 2.0.4 is now out!
 
-(Hotfix fixes issues with Jack, PM, and the PM CN menu.)
+(A screen will now pop up warning you if you have too little dedicated ram. Credit to Yunivers for collaborating with me to get this functionality working.)
 
-List of things that have been patched since the last update:
 
-Slender still deloading/freezing on Reduced tunnels.
-Jeff visual bugs.
-YBF being stuck in your hand while Shade Minnie was in the office.
-Easter eggs appearing when they shouldn't.
-Slender spawning behind the bathroom door.
-Jack ambience not looping properly.
-Night 6 star not working.
-Jack volume tweaked to be easier to gague distance.
-Slender bathroom page being invisible.
-Easier to see Slender.
-Hourglass no longer camps outside the door if you haven't entered mid chase.
-Night 4 nerfed.
-Post-mortem nerfed.
+Donald can no longer camp a head for as long as he wants
+
+Slenderman on hard mode will spawn in at max aggression if the player doesn't collect the first page in a timely manner
+
+Custom Night screen not auto selecting a challenge fixed
+
+Corruptus spawning and reaction time improved
+
+Cameras remain shutdown for a bit longer than before
+
+Hourglass anti-cheese disabled on night 1 as the map is too small.
+
+Hourglass anti-cheese will no longer put hourglass outside of the map or right on-top of you.
+
+Hourglasses scared off state has been removed.
+
+Hourglass will attempt to investigate sounds more.
+
+Jake will no longer have a heart attack in The Tunnels.
+
+Can now lure MickMick to Cam 5.
+
+Restarting PM on a main night will now restart you at the beginning of your regular night.
+
+No longer able to erase notepad when it's down in windowed mode.
+
+Cabin Face's eye can no longer destroy itself on AI's higher than 20.
+
+Fixed issues with the display of Custom Challenges on the list.
+
+"Shift" to jump to the ends of the Custom Challenges list.
+
+"Shift" to invert middle click on CN menu behavior works on PM options.
+
+Tunnels will automatically send you to the menu and enable reduced tunnels if it detects integrated gpus.
+
+Luring is deltatimed.
+
+Added attic easter-eggs.
+
+Smile Dog will never appear in the attic more than once on hard mode.
+
+Challenge detection recoded.
+
 |0
