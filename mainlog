@@ -39,7 +39,7 @@ Fixed issues with the display of Custom Challenges on the list.
 
 "Shift" to invert middle click on CN menu behavior works on PM options.
 
-Tunnels will automatically send you to the menu and enable reduced tunnels if it detects integrated gpus.
+The game will automatically detect if you have less than the minimum amount of VRAM and will show a warning.
 
 Luring is deltatimed.
 
