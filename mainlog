@@ -1,10 +1,10 @@
-6|https://raw.githubusercontent.com/SunkenStudios/OblitusCasa2.0Changelog/main/2.0.4_Update_Raw.png|Release 2.0.4 - Changelog
+7|https://raw.githubusercontent.com/SunkenStudios/OblitusCasa2.0Changelog/main/2.0.4_Update_Raw.png|Release 2.0.4 - Changelog
 
 Oblitus Casa version 2.0.4 is now out!
 
-(If your game says it's out of date, that is because a hotfix was pushed out to fix an issue with Sparky and to Rebalance jack's audio to be at max volume when he's in picture distance, and an issue with Night 4 Tunnels.)
+(If your game says it's out of date, that is because jeff monitor getting stuck has been fixed + All white stars will unlock mortimer in the extras alongside seeing him ingame.)
 
-(A screen will now pop up warning you if you have too little dedicated ram. Credit to Yunivers for collaborating with me to get this functionality working.)
+(A screen will now pop up warning you if you have too little dedicated ram. Credit to Yunivers for collaborating with me to get this functionality working. If it falsely detects you as having less than 5.0 gb of VRAM, then you can disable this option.)
 
 
 Donald can no longer camp a head for as long as he wants
