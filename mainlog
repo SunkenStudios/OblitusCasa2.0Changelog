@@ -1,49 +1,33 @@
-9|https://raw.githubusercontent.com/SunkenStudios/OblitusCasa2.0Changelog/main/2.0.4_Update_Raw.png|Release 2.0.4 - Changelog
+10|https://raw.githubusercontent.com/SunkenStudios/OblitusCasa2.0Changelog/main/2.0.5_Update_Raw.png|Release 2.0.5 - Changelog
 
-Oblitus Casa version 2.0.4 is now out!
+Oblitus Casa version 2.0.5 is now out!
 
-(If your game says it's out of date, that is because a hotfix has been pushed out fixing issues with some stars, and fixes a sleepiness issue with jack.)
+Added French subtitles, courtesy of Bloxx
 
-Donald can no longer camp a head for as long as he wants
+Added the missing Post Mortem ambiences
 
-Slenderman on hard mode will spawn in at max aggression if the player doesn't collect the first page in a timely manner
+Added descriptions for each setting
 
-Custom Night screen not auto selecting a challenge fixed
+Added various QOL features
 
-Corruptus spawning and reaction time improved
+Optimized the 'Custom Challenges' menu
 
-Cameras remain shutdown for a bit longer than before
+Updated Hourglass extras
 
-Hourglass anti-cheese disabled on night 1 as the map is too small.
+Updated Tunnels walking SFX
 
-Hourglass anti-cheese will no longer put hourglass outside of the map or right on-top of you.
+Fixed continue screen having a wrong poster texture
 
-Hourglasses scared off state has been removed.
+Fixed an issue with Hard Mode Slenderman not activating after 40 seconds
 
-Hourglass will attempt to investigate sounds more.
+Fixed the 'Custom Challenge' name vanishing after you return to the menu
 
-Jake will no longer have a heart attack in The Tunnels.
+Fixed an issue with Jeff's attack logic
 
-Can now lure MickMick to Cam 5.
+Fixed Smile Dog's attack value and visual value desyncing
 
-No longer able to erase notepad when it's down in windowed mode.
+Fixed Night 6
 
-Cabin Face's eye can no longer destroy itself on AI's higher than 20.
-
-Fixed issues with the display of Custom Challenges on the list.
-
-"Shift" to jump to the ends of the Custom Challenges list.
-
-"Shift" to invert middle click on CN menu behavior works on PM options.
-
-The game will automatically detect if you have less than the minimum amount of VRAM and will show a warning.
-
-Luring is deltatimed.
-
-Added attic easter-eggs.
-
-Smile Dog will never appear in the attic twice in a row on hard mode.
-
-Challenge detection recoded.
+Removed Herobrine
 
 |0
